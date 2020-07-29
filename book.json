@@ -1,4 +1,7 @@
 {
   "language" : "zh-hans",
-  "title" : "慧通云雀物联网平台操作手册"
+  "title" : "慧通云雀物联网平台操作手册",
+  "pdf": {
+    "fontSize": 16
+  }
 }

@@ -18,7 +18,7 @@
         </li>
         <li style="width:300px;list-style: none;overflow: hidden">
             <span style="float:left">版本：</span>
-            <span style="float:right">0.2</span>
+            <span style="float:right">0.1.1</span>
         </li>
     </ul>
 

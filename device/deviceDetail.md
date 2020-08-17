@@ -1,9 +1,9 @@
 # 5.2 设备详情
 ![avatar](/images/deviceDetail.jpg)
 * 产品管理页的上方包含设备名称，DeviceKey，DeviceSecret，设备数和发布/撤回按钮以及三个标签页：产品信息，主题定义和功能定义
-    * 出于安全考虑，DeviceSecret默认为隐藏，点击显示后，会显示DeviceSecret，如下图：
+    * 出于安全考虑，DeviceSecret默认为隐藏，点击显示后，会弹出对话框，对话框上有ProductKey, DeviceKey,DeviceSecret，如下图：
     ![avatar](/images/deviceSecret.jpg)
-    * 显示DeviceSecret后，页面上会多出一个重置按钮，重置后将导致原有 DeviceSecret 失效，您需要将新生成的 DeviceSecret 烧录到设备中。
+    * 重置 DeviceSecret 后将导致原有 DeviceSecret 失效，您需要将新生成的 DeviceSecret 烧录到设备中。
     
 ## 5.2.1 设备信息页
 ### 设备信息

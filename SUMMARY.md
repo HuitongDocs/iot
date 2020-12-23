@@ -18,10 +18,14 @@
 * 第五章 设备管理
     - [5.1 设备管理](device/deviceManage.md)
     - [5.2 设备详情](device/deviceDetail.md)
+    
+* 第六章 分组管理
+    - [6.1 分组管理](group/groupManage.md)
+    - [6.2 分组详情](group/groupDetail.md)
 
-* 第六章 个人信息
-    - [6.1 个人中心](user/userInfo.md)
+* 第七章 个人信息
+    - [7.1 个人中心](user/userInfo.md)
 
-* 第七章 平台接入协议
-    - [7.1 接入协议](protocol/protocol.md)
+* 第八章 平台接入协议
+    - [8.1 接入协议](protocol/protocol.md)
 

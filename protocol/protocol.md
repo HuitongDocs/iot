@@ -1,10 +1,10 @@
-# 7.1 接入协议
+# 8.1 接入协议
 
 * MQTT，优先实现
 * HTTP
 * CoAP
 
-## 7.1.1 MQTT
+## 8.1.1 MQTT
 
 * 兼容3.1.1和3.1版本协议
 * 支持 MQTT 的 PUBLISH、SUBSCRIBE、PING、PONG、CONNECT、DISCONNECT、UNSUBSCRIBE 等报文。
@@ -127,7 +127,7 @@ password={deviceSecret}
 - ts 设备影子最新更新的时间。
 - version 设备影子的版本号，设备影子的更新需要遵循一定的规则
 
-## 7.1.2 Hui Link JSON 数据格式
+## 8.1.2 Hui Link JSON 数据格式
 
 ### 属性上报
 

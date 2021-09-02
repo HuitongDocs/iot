@@ -1,8 +1,8 @@
 # 4.2 产品详情
-![avatar](/images/productInfo.jpg)
+![avatar](./images/productInfo.jpg)
 * 产品管理页的上方包含产品名称，ProductKey，ProductSecret，设备数和发布/撤回按钮以及三个标签页：产品信息，主题定义和功能定义
     * 出于安全考虑，productSecret默认为脱敏，点击productSecret的显示按钮，可以显示ProductSecret，如下图：
-    ![avatar](/images/resetSecret.jpg)
+    ![avatar](./images/resetSecret.jpg)
     * 点击设备接入设备管理按钮，会跳转到设备列表处，[点击](/device/deviceManage.html#_5-1-1-设备列表 "设备列表")查看设备列表详情。
     * 点击发布按钮，会发布设备，设备状态会切换到已发布。点击撤回按钮，会撤回设备，设备状态会切换到开发中。
     * 显示ProductSecret后，页面上会多出一个重置按钮，重置后将导致原有ProductSecret失效，需要将新生成的ProductSecret烧录到设备中。
@@ -11,45 +11,45 @@
 ### 产品信息
 * 产品信息块有产品信息，产品类型，创建时间，状态（已发布或开发中），数据格式，动态注册，连接方式和描述
 * 点击编辑弹出编辑对话框，可以修改产品名称和产品描述
-![avatar](/images/productInfoEdit.jpg)
+![avatar](./images/productInfoEdit.jpg)
 
 ### 标签信息
 * 标签信息块会展示产品的标签，默认标签有“type:huibox-700“和“material:铁壳“。
 * 点击编辑弹出编辑对话框，可以增加产品的标签。
-![avatar](/images/tagEdit.jpg)
+![avatar](./images/tagEdit.jpg)
 * 点击增加标签，可以填写标签键和值。
-![avatar](/images/tagAdd.jpg)
+![avatar](./images/tagAdd.jpg)
 * 填写完成后点击确认即可增加产品的标签。
 
 ## 4.2.2 产品主题定义
 ### 默认主题
-![avatar](/images/topic.jpg)
+![avatar](./images/topic.jpg)
 * 新创建的产品，都带有系统默认的一些主题，不可编辑不可删除，如下图：
-![avatar](/images/defaultTopic.jpg)
+![avatar](./images/defaultTopic.jpg)
 
 ### 新增主题
 * 点击新增按钮， 弹出新增主题的对话框
-![avatar](/images/topicAdd.jpg)
+![avatar](./images/topicAdd.jpg)
 * 主题和设备权限为必选，备注为可选
     * 设备权限有三种：发布，订阅以及发布和订阅
 
 ### 编辑主题
-![avatar](/images/topicEdit01.jpg)
+![avatar](./images/topicEdit01.jpg)
 
 #### 只有自定义的主题可以编辑与删除，系统默认主题不可修改与删除
-![avatar](/images/topicEdit02.jpg)
+![avatar](./images/topicEdit02.jpg)
 * 点击编辑按钮，弹出编辑主题对话框，可以修改主题，设备权限和备注
 
 ### 删除主题
-![avatar](/images/topicDelete.jpg)
+![avatar](./images/topicDelete.jpg)
 * 点击删除按钮，弹出删除确认框，点击确定即可删除自定义主题
 
 ## 4.2.3 功能定义
-![avatar](/images/function.jpg)
+![avatar](./images/function.jpg)
 * 功能定义页面展示用户自定义的一些功能，功能主要有三类：属性，命令和事件。
 
 ### 新增功能
-![avatar](/images/functionAdd.jpg)
+![avatar](./images/functionAdd.jpg)
 * 根据用户选择功能类型的不同，所需填写的参数也会跟着变化
     * 属性
         * 当用户选择的功能为属性时，所需填写的参数有标识符，名称，数据类型和读写权限，备注为可选参数。如下图
@@ -79,9 +79,9 @@
              <img src="/images/functionAddOutput.jpg" width="400px" style="display:block;border:1px solid #eee">
                  
 ### 编辑功能
-![avatar](/images/functionEdit02.jpg)
+![avatar](./images/functionEdit02.jpg)
 * 点击操作下的编辑按钮，会弹出编辑对话框，编辑对话框内容同新增一致，[点击](/product/productManage.html#新增功能 "新增功能")查看具体内容
 
 ### 删除功能
-![avatar](/images/functionDelete.jpg)
+![avatar](./images/functionDelete.jpg)
 * 点击操作下的编删除按钮，会弹出删除确认框，点击确认即可删除

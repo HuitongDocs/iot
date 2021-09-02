@@ -8,7 +8,7 @@
 ## 3.2.2 验证码登录
 ![avatar](../.vuepress/public/images/captchaLogin.jpg)
 * 填写完成账号（注册时的邮箱或者手机号）后，点击获取验证码按钮，会弹出输出图形验证码的对话框，如下图所示：
-![avatar](../.vuepress/public/images/logincaptcha.jpg)
+![avatar](../.vuepress/public/images/loginCaptcha.jpg)
 * 输入正确的图形验证码，点击验证，验证成功后系统会发送一个六位数字的验证码到填写的账号上，填写完成后点击登录。
 
 ## 3.2.3 微信登录

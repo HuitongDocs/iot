@@ -1,8 +1,8 @@
 # 3.1 平台注册
 # 3.1.1 账号注册
-![avatar](./images/register.jpg)
+![avatar](../.vuepress/public/images/register.jpg)
 * 注册账号支持手机号和邮箱号，填写完成注册账号后，点击获取验证码按钮，会弹出输出图形验证码的对话框，如下图所示：
-![avatar](./images/captcha.jpg)
+![avatar](../.vuepress/public/images/captcha.jpg)
 * 输入正确的图形验证码，点击验证，验证成功后系统会发送一个六位数字的验证码到填写的注册账号，填写在验证码的输入框后，设置密码，密码长度为8-20位，必须包含数字和字母。
 * 填写完以上信息后，请认真阅读使用条款，点击同意后，方可点击注册按钮。
 * 注册成功后，会自动跳转到产品列表页。

@@ -44,7 +44,7 @@
     * 点击更新设备影子，弹出更新设备影子对话框，如下图：
       ![avatar](../.vuepress/public/images/updateShadow.jpg)
       * 更新设备影子的数据分为两种：设备上报属性和设备期望属性。设备上报属性是定义设备上报的数据，设备期望属性是设置设备处于离线状态时的期望属性。
-      ![avatar](../.vuepress/public/images/DeviceShadowSelect.jpg)
+      ![avatar](../.vuepress/public/images/deviceShadowSelect.jpg)
       * 每行左边选项框可选择设备的数据类型，右边输入所选类型的值。（可选的设备数据类型在产品的功能定义下定义）
       
       

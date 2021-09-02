@@ -13,10 +13,6 @@
             <span style="float:right">2020年7月8日</span>
         </li>
         <li style="width:300px;list-style: none;overflow: hidden">
-            <span style="float:left">最新更新时间：</span>
-            <span style="float:right">2020年7月27日</span>
-        </li>
-        <li style="width:300px;list-style: none;overflow: hidden">
             <span style="float:left">版本：</span>
             <span style="float:right">0.1.1</span>
         </li>

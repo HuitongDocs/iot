@@ -122,6 +122,32 @@ module.exports = {
           'user/userInfo',
         ]
       },
+,
+
+      {
+        title: '开发指南',
+        collapsable: false,
+        path: '/develop/',
+        children: [
+          'develop/deviceRegistration',
+          'develop/deviceLink',
+          'develop/ObjectModel',
+          'develop/NodeType',
+          'develop/deviceLog',
+          'develop/ReturnCode',
+        ]
+      },
+
+      {
+        title: '最佳示例',
+        collapsable: false,
+        path: '/example/',
+        children: [
+          'example/exampleMQTT.fx',
+          'example/examplePython'
+        ]
+      },
+
       {
         title: '平台接入协议',
         collapsable: false,
@@ -129,7 +155,7 @@ module.exports = {
         children: [
           'protocol/protocol',
         ]
-      },
+      }
  
     ]
   }

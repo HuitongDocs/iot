@@ -1,0 +1,17 @@
+{
+    "mqtt": {
+        "Broker_Address": "mqtt-cn-bj1.iot.larkea.com",
+        "port": 1883,
+        "keepalive": 300
+    },
+    "devices": {
+        "pk": "NE6V4BO1B",
+        "dk": "NE6V4BO1C",
+        "password" : "4gzd4Zi5gA0jzpEZiwLe"
+    },
+    "data": {
+        "properties": {
+            "TP": "24"
+        }
+    }
+}

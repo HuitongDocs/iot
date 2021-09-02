@@ -1,4 +1,4 @@
-# 7.2 实例详情
+# 8.2 实例详情
 ![avatar](../.vuepress/public/images/instanceDetail.jpg)
 ### 实例操作
 ![avatar](../.vuepress/public/images/instanceControl.jpg)

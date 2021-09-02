@@ -10,5 +10,5 @@
 
 注：mqtt.py 是不加密，需用 1883 端口，mqtt-with-TLS.py 是加密，需用 8883 端口
 
-![python-json](../images/python-json.jpg)
+![python-json](../.vuepress/public/images/python-json.jpg)
 

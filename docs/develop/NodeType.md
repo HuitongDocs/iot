@@ -2,7 +2,7 @@
 
 创建产品时有三个节点选项，分别为直联设备，网关设备和网关子设备。
 
-![nodetype](../images/nodetype.jpg)
+![nodetype](../.vuepress/public/images/nodetype.jpg)
 
 * 直联设备：直接连接平台的设备，有且只有一个设备连接平台
 * 网关设备：除了自身可以连接平台外，还可以让网关子设备通过网关设备来连接平台

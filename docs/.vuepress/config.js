@@ -48,7 +48,7 @@ module.exports = {
   function genSidebarConfig() {
     return [
       {
-        title: '云雀物联网平台',
+        title: '目录',
         path: 'SUMMARY'
       },
       {
@@ -106,6 +106,14 @@ module.exports = {
         ]
       },
       {
+        title: '个人信息',
+        collapsable: false,
+        path: '/user/',
+        children: [
+          'user/userInfo',
+        ]
+      },
+      {
         title: '规则引擎',
         collapsable: false,
         path: '/rule/',
@@ -114,16 +122,6 @@ module.exports = {
           'rule/instanceDetail',
         ]
       },
-      {
-        title: '个人信息',
-        collapsable: false,
-        path: '/user/',
-        children: [
-          'user/userInfo',
-        ]
-      },
-,
-
       {
         title: '开发指南',
         collapsable: false,

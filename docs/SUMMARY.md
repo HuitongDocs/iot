@@ -42,5 +42,5 @@
     * [10.2 使用 python 程序连接平台](example/examplePython.md)
 
 * 平台接入协议
-    - [接入协议](protocol/protocol.md
+    - [接入协议](protocol/protocol.md)
 

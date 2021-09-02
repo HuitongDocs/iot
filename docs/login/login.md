@@ -2,22 +2,22 @@
 * 用户登录方式分为三种：密码登录，验证码登录和微信登录。点击验证码登录可以切到验证码登录，点击密码登录可以切换到密码登录，点击其他登录方式下的微信图标会跳到微信二维码扫描登录页面。
 
 ## 3.2.1 密码登录
-![avatar](../.vuepress/public/images/passLogin.jpg)
+![avatar](./images/passLogin.jpg)
 * 密码登录只需输入账号（注册时的邮箱或者手机号）和密码，点击登录即可直接登录。
 
 ## 3.2.2 验证码登录
-![avatar](../.vuepress/public/images/captchaLogin.jpg)
+![avatar](./images/captchaLogin.jpg)
 * 填写完成账号（注册时的邮箱或者手机号）后，点击获取验证码按钮，会弹出输出图形验证码的对话框，如下图所示：
-![avatar](../.vuepress/public/images/logincaptcha.jpg)
+![avatar](./images/logincaptcha.jpg)
 * 输入正确的图形验证码，点击验证，验证成功后系统会发送一个六位数字的验证码到填写的账号上，填写完成后点击登录。
 
 ## 3.2.3 微信登录
 * 点击其他登录方式下的微信图标，跳到微信二维码扫码登录页面，如下图：
-![avatar](../.vuepress/public/images/wechatScan.jpg)
+![avatar](./images/wechatScan.jpg)
     * 打开微信扫一扫，扫码登录
     * 如果之前已用该微信注册过账号，将直接跳转到产品列表页。
     * 如果之前未用该微信注册过账号，将跳到账号绑定页面，如下图：
-        ![avatar](../.vuepress/public/images/wechatLogin.jpg)
+        ![avatar](./images/wechatLogin.jpg)
     * 账号绑定支持两种方式：绑定已有账号和直接使用微信登录。
         * 绑定已有账号
             * 绑定已有账号支持输入账号和密码后点击登录并绑定账号，也可通过验证码方式登录并绑定账号，具体流程同上述的密码登录和验证码登录一致。

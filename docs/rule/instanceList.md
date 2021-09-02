@@ -1,8 +1,8 @@
 # 7.1 引擎实例管理
 ## 7.1.1 实例列表
-![avatar](../.vuepress/public/images/instanceList.jpg)
+![avatar](./images/instanceList.jpg)
 ### 实例创建
-![avatar](../.vuepress/public/images/createInstance.jpg)
+![avatar](./images/createInstance.jpg)
 * 创建实例需要填写名称好备注，名称为必填，备注为可填。填写完成后点击确认即可创建。
 
 ### 进入实例

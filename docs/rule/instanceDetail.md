@@ -1,7 +1,7 @@
 # 7.2 实例详情
-![avatar](../.vuepress/public/images/instanceDetail.jpg)
+![avatar](./images/instanceDetail.jpg)
 ### 实例操作
-![avatar](../.vuepress/public/images/instanceControl.jpg)
+![avatar](./images/instanceControl.jpg)
 * 进入实例
   * 点击进入实例，会跳转到node-Red操作页面，如果实例状态为未启动则不可点击，需先启动实例后，才可点击。
 * 启动/暂停实例
@@ -17,7 +17,7 @@
 * 基本信息页分为两部分：基本信息和实例配置。基本信息包含实例状态，首次启动时间。累积运行时间。最近启动时间和实例备注。实例配置包含Flow 文件存储区域。
 
 ### 编辑基本信息
-![avatar](../.vuepress/public/images/instanceEdit.jpg)
+![avatar](./images/instanceEdit.jpg)
 * 点击编辑按钮，弹出实例基本信息编辑对话框，可以修改实例的名称和备注。
 
 ### 进入实例
@@ -27,9 +27,9 @@
 * 点击启动实例或暂停实例，可以启动或暂停实例。
 
 ### 编辑实例配置
-![avatar](../.vuepress/public/images/instanceEdit2.jpg)
+![avatar](./images/instanceEdit2.jpg)
 * 点击编辑按钮，弹出实例配置编辑对话框，可以选择是Flow文件存储位置：持久化存储区域和临时存储区域。注：选择“临时存储区域”，复位实例后，内部设计流文件（Flow 文件）存储将同时被释放，不可恢复。
 
 ## 实例运行日志
-![avatar](../.vuepress/public/images/instanceRun.jpg)
+![avatar](./images/instanceRun.jpg)
 * 实例运行日志中会列举出实例的所有操作（创建，编辑，启动，暂停，重启，复位），可以根据模块（核心和配置）和时间来搜索实例的运行日志
